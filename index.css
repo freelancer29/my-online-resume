@@ -154,3 +154,19 @@ p {
     font-size: 35px;
     margin-bottom: 10px;
 }
+.impact .title2 {
+    margin-top: 1.5rem;
+    font-size: 25px;
+}
+
+@media screen and (max-width: 480px) {
+    .container {
+        position: relative;
+       
+        display: flex;
+        flex-direction: column;
+        
+     
+    }
+    
+}
